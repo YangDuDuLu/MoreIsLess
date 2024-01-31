@@ -16,7 +16,7 @@ We utilized Hate Speech Detection datasets to construct examples in In-Context L
 
 ## How to run
 
-* everything is in the notebook
+* main.ipynb
 ```
 jupyter lab
 ```
