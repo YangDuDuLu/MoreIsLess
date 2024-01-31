@@ -4,7 +4,10 @@ More is Less: Attention Dilution in In-Context Learning with Large Language Mode
 ## Environment
 The codes of MoreIsLess are implemented and tested under the following development environment:
 * python=3.11.5
+* numpy=1.24.3
 * pandas=2.0.3
+* matplotlib=3.7.2
+* tabulate=0.8.10
 * transformers=4.36.2
 * ctransformers=0.2.27
 
