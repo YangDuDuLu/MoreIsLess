@@ -18,11 +18,15 @@ We utilized Hate Speech Detection datasets to construct examples in In-Context L
 notebook
 ```
 
-## Citation
+## Citation(for review only)
 If you want to use our codes and datasets in your research, please cite:
 ```
-  pages={4649--4660},
-  year={2023}
+@inproceedings{lu2024moreisless,
+  title={More is Less: Attention Dilution in In-Context Learning with Large Language Models},
+  author={Lu, Albert and Zhan, Felix},
+  booktitle={Proceedings of the 30th ACM xxxxxx Conference on Knowledge Discovery and Data Mining},
+  pages={xxxx--xxxx},
+  year={2024}
 }
 ```
 
